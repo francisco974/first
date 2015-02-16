@@ -24,6 +24,8 @@ gem 'jquery-rails'
 gem 'foundation-rails'
 gem 'rails_layout', :group => :development
 
+gem 'devise'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
